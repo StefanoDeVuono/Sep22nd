@@ -1,1 +1,1 @@
-var Name = Yagmur 
+var Name = ["Yagmur", "Mayowa"];
